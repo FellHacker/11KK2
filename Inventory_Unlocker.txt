@@ -44,8 +44,8 @@ Titulo.TextSize = 20.000
 
 Inventory.Name = "Inventory"
 Inventory.Parent = batata
-Inventory.BackgroundColor3 = Color3.fromRGB(229, 229, 229)
-Inventory.BorderSizePixel = 2
+Inventory.BackgroundColor3 = Color3.fromRGB(184, 184, 184)
+Inventory.BorderSizePixel = 3
 Inventory.Position = UDim2.new(0.0670108423, 0, 0.388801217, 0)
 Inventory.Size = UDim2.new(0, 167, 0, 50)
 Inventory.Font = Enum.Font.Code
